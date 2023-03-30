@@ -4,10 +4,10 @@
 
 ➤ Through this website, operators are able to create, edit and delete details of a particular customer using a database schema.                                                                                                                                                                                                          
 
-Technologies Used: 
-Frontend: React.js & Material-UI
-Backend: Node.js & Express.js
-Database: MongoDB                                                                                                                                                   
+Technologies Used:                                                                                                                                                   
+Frontend: React.js & Material-UI                                                                                                                                     
+Backend: Node.js & Express.js                                                                                                                                       
+Database: MongoDB                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                      
 Video link: https://drive.google.com/file/d/190A8l3E8z-3r9ENUIFR_pcgbIByjil3C/view                                                                                                                                                                                                                                                       
 
