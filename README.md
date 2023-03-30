@@ -1,5 +1,9 @@
 # droame.github.io
 
+➤I have created a web application that allows the operator to manage customers details like their id,name,username,email and phone number by storing this data in the backend tables. To clarify more, this website is meant for operators only.                                                                                           
+
+➤ Through this website, operators are able to create, edit and delete details of a particular customer using a database schema.                                                                                                                                                                                                          
+
 Technologies Used: 
 Frontend: React.js & Material-UI
 Backend: Node.js & Express.js
