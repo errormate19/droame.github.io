@@ -1,4 +1,4 @@
-# droame.github.io
+# CRUD Application
 
 ➤ Created a web application that allows the operator to manage customers details like their id,name,username,email and phone number by storing this data in the  backend tables. To clarify more, this website is meant for operators only.                                                                                           
 
